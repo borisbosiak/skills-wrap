@@ -8,7 +8,7 @@
     {
       "name": "anatomy",
       "description": "Draws a technical idea as a live, interactive isometric machine (SVG/HTML, optional WebGL).",
-      "source": { "source": "github", "repo": "wheresryan22/anatomy" },
+      "source": { "source": "url", "url": "https://github.com/wheresryan22/anatomy.git" },
       "homepage": "https://skills.wheresryan.sh/anatomy",
       "license": "MIT",
       "strict": false,
